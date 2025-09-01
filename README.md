@@ -40,10 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
 </div>
 
-###
-
-<!-- <h3 align="left">Skills</h3> -->
-
 ### Skills
 - **Languages**: Python, Java, Typescript, Javascript, C, C++, C# 
 - **Frameworks & Libraries**: React, PyTorch, Pandas, Flask, FastAPI, RestAPI
@@ -53,23 +49,26 @@
 
 ### Current Projects
 - **Yank**
-  <br> A tool that bridges the gap between vague search queries and search engine results while keeping the user in control.
-  <br> *AWS, Node.js, Flask, Docker, LLMs, JavaScript, Python, HTML, CSS*
+  - A tool that bridges the gap between vague search queries and search engine results while keeping the user in control.
+  - Tech stack: *AWS, Node.js, Flask, Docker, LLMs, JavaScript, Python, HTML, CSS*
 - **MarketMatch**
-  - A web application that allows users to find the best products for their needs.
-  - Built using React, Typescript, and Tailwind CSS.
-  - Deployed using Vercel.
+  - A web and iOS application that allows users to find the best products for their needs with mactchmaking algorithms.
+  - Tech stack: *Swift, Python, LLMs, JavaScript, Python, HTML, CSS*
 
 ### Interests
-- **Product Development**
-- **Intelligent Systems**
-- **Projects that challenge me**
+- Reinforcement Learning systems
+- Product development
+- Data modeling
 
 ### Get in touch
 <div align="left">
-<svg xmlns="http://www.w3.org/2000/svg" width="52" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-linkedin-icon lucide-linkedin"><a href="https://www.linkedin.com/in/saksh-menon/"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z" /><rect width="4" height="12" x="2" y="9"/><circle cx="4" cy="4" r="2"/></a></svg>
-  
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" a />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+
+  <a href="https://www.linkedin.com/in/saksh-menon/">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="logo" />
+  </a>
+  <a href="https://sakshmenon.netlify.app/">
+  <svg xmlns="http://www.w3.org/2000/svg" width="52" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-external-link-icon lucide-external-link"><path d="M15 3h6v6"/><path d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/></svg>
+  </a>
 </div>
+
+<img src="https://raw.githubusercontent.com/sakshmenon/sakshmenon/output/snake.svg" alt="Snake animation" />
