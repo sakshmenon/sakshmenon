@@ -42,7 +42,7 @@
 
 ### Skills
 - **Languages**: Python, Java, Typescript, Javascript, C, C++, C# 
-- **Frameworks & Libraries**: React, PyTorch, Pandas, Flask, FastAPI, RestAPI
+- **Frameworks & Libraries**: React, Pandas, Flask, FastAPI, RestAPI, Nltk
 - **DevOps**: AWS, Azure, K8s
 - **Databases**: MySQL, DynamoDB, MongoDB, PostgreSQL
 - **AI Tools**: OpenAI, Llama, LoRA, 
